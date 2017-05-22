@@ -1,0 +1,18 @@
+body {
+	background-color: lightblue;
+	border-style: dotted;
+}
+
+h1 {
+	text-align: center;
+	font-family: cursive, sans-serif;
+	font-size: 60px;
+	color: red;
+}
+
+p, li {
+	font-family: Helvetica, sans-serif;
+	font-size: 18px;
+	margin: 10px 10px 10px 10px;
+	line-height: 24px;
+}
