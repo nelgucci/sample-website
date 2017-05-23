@@ -1,18 +1,43 @@
 body {
 	background-color: lightblue;
-	border-style: dotted;
+	
 }
+
+
+nav li {
+	float: left;
+	width: 33.33%;
+	text-align: center;
+	font-family: fantasy, sans-serif;
+}
+
+nav a {
+	color: black;
+	text-decoration: none;
+}
+
+nav a:hover {
+	text-decoration: underline;
+	color: blue;
+}
+
+nav ul {
+	list-style: none;
+	padding: 0;
+}
+
 
 h1 {
 	text-align: center;
 	font-family: cursive, sans-serif;
 	font-size: 60px;
-	color: red;
+	color: blue;
 }
 
 p, li {
+
 	font-family: Helvetica, sans-serif;
 	font-size: 18px;
-	margin: 10px 10px 10px 10px;
 	line-height: 24px;
 }
+
